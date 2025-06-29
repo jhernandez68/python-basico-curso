@@ -6,7 +6,7 @@ Repositorio con apuntes y ejemplos para un curso introductorio de **Python**.
 
 | Carpeta | Descripción |
 |---------|-------------|
-| `que_es_python/` | Introducción: qué es Python y cómo instalarlo con **pyenv**. |
+| `1.que_es_python/` | Introducción: qué es Python y cómo instalarlo con **pyenv**. |
 | `2.conceptos_basicos/` | Conceptos básicos del lenguaje (operadores lógicos, funciones *built‑in*, etc.). |
 
 ## Instalación rápida
