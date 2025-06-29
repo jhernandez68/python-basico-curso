@@ -13,8 +13,8 @@ Repositorio con apuntes y ejemplos para un curso introductorio de **Python**.
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/<tu-usuario>/python-basico-curso.git
-cd python-basico-curso
+git clone https://github.com/jhernandez68/python-basico-curso
+cd Python2025
 
 # Instala Python con pyenv (ejemplo con 3.12.3)
 pyenv install 3.12.3
@@ -22,7 +22,7 @@ pyenv local 3.12.3
 ```
 
 > Asegúrate de tener las dependencias de compilación instaladas.  
-> Consulta `que_es_python/instalacion_pyenv.md` para más detalles.
+> Consulta `1.que_es_python/instalacion_pyenv.md` para más detalles.
 
 ## Cómo usar el material
 
