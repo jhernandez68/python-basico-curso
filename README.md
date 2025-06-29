@@ -40,5 +40,5 @@ python ejemplo.py
 
 ## Autor
 
-Jhoan Hernández – [@jhhernandez68](https://github.com/jhernandez68)
+Jhoan Hernández – [@jhernandez68](https://github.com/jhernandez68)
 
