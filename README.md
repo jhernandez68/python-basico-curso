@@ -10,7 +10,11 @@ Repositorio con apuntes y ejemplos para un curso introductorio de **Python**.
 | `2.conceptos_basicos/` | Conceptos básicos del lenguaje (operadores lógicos, funciones *built‑in*, etc.). |
 | `3.estructuras_de_datos/` | Estructuras de datos fundamentales: listas, tuplas, diccionarios y sets, con ejemplos y scripts. |
 | `4.condicionales/` | Uso de estructuras condicionales (`if`, `else`, `elif`), operadores lógicos (`and`, `or`, `not`) y buenas prácticas. |
-| `5.ciclos/` | Bucles de repetición (`for`, `while`), cláusulas `else`, control de flujo (`break`, `continue`) |
+| `5.ciclos/` | Bucles de repetición (`for`, `while`), cláusulas `else`, control de flujo (`break`, `continue`). |
+| `6.funciones/` | Definición de funciones, parámetros y argumentos, valores de retorno y documentación (`docstrings`). |
+| `7.POO/` | Programación Orientada a Objetos: clases, instancias, constructores, atributos, métodos y herencia. |
+| `8.errores_y_excepciones/` | Manejo de errores y excepciones: tipos integrados, `try/except`, bloques `else` y `finally`, excepciones personalizadas. |
+
 
 
 ## Instalación rápida
