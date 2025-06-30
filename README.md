@@ -8,6 +8,10 @@ Repositorio con apuntes y ejemplos para un curso introductorio de **Python**.
 |---------|-------------|
 | `1.que_es_python/` | Introducción: qué es Python y cómo instalarlo con **pyenv**. |
 | `2.conceptos_basicos/` | Conceptos básicos del lenguaje (operadores lógicos, funciones *built‑in*, etc.). |
+| `3.estructuras_de_datos/` | Estructuras de datos fundamentales: listas, tuplas, diccionarios y sets, con ejemplos y scripts. |
+| `4.condicionales/` | Uso de estructuras condicionales (`if`, `else`, `elif`), operadores lógicos (`and`, `or`, `not`) y buenas prácticas. |
+| `5.ciclos/` | Bucles de repetición (`for`, `while`), cláusulas `else`, control de flujo (`break`, `continue`) |
+
 
 ## Instalación rápida
 
